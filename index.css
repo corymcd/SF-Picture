@@ -1,0 +1,27 @@
+#container{
+	position: relative;
+	width:100%;
+}
+
+
+#headerContainer{
+	margin:auto;
+	width:700px;
+	background-color:red;
+}
+
+
+#cory{
+	float: left;
+}
+
+#header{
+	float: left;
+}
+
+.name{
+	font-family:"Arial";
+	font-weight:bold;
+	color:blue;
+}
+
